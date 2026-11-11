@@ -1,0 +1,18 @@
+= Olivier Bonvalet
+
+CEO & CTO at https://waays.fr[Waays] | Infrastructure & Site Reliability Engineering
+
+I've been designing, building and operating Linux-based infrastructure for over 20 years, with a focus on reliability, scalability and distributed systems.
+
+== Areas of expertise
+
+* *Cloud-native infrastructure:* Kubernetes, GitOps, automation
+* *Distributed storage:* Ceph/Rook, RBD, S3, CephFS
+* *Reliability engineering:* Observability, performance, high availability
+* *Databases:* MariaDB/MySQL, PostgreSQL, SQL optimization, PL/SQL
+* *Open source:* Linux (Debian !) and distributed systems
+* *Coding:* PHP, Python, exploring Go, with a soft spot for Pascal and Assembly :)
+
+Most of my work happens in private repositories and production environments.
+
+Based in Lyon, France.
